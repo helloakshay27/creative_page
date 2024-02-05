@@ -1,0 +1,44 @@
+@media screen and (max-width: 1200px) {
+   
+    .read-m {
+
+        width: 30%;
+      
+    }
+   
+    .ani-text {
+        z-index: -1;
+        position: absolute;
+        transform: translateY(0%);
+    }
+
+    .we-are .text-content h3 {
+        font-size: 3.2rem;
+    }
+
+    .spacing {
+        margin-bottom: 6rem;
+    }
+
+    .rotating-text-wrapper h3 {
+        top: 22%;
+     
+    }
+
+    .panel-content {
+        padding: 12% 0 70% 0;
+    }
+
+    .text-content h3 {
+        font-size: 2rem;
+        color: white;
+    }
+
+    .text-slider h3 {
+        font-size: 1.8rem;
+        color: white;
+    }
+    .what-we-do {
+        padding: 2rem 0 1rem 0;
+    }
+  }
