@@ -4,7 +4,6 @@
 
 ## Live Demo
 
-[https://howl-web-page.vercel.app/](https://howl-web-page.vercel.app/)
 
 
 # Jio Creative Web Developer Assignment
